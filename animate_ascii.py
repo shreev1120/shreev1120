@@ -4,8 +4,8 @@ from PIL import Image, ImageDraw, ImageFont
 def create_animated_ascii():
     print("Reading ASCII art...")
     with open("face_ascii.txt", "r") as f:
-        # Crop to the first 45 lines to make it a square portrait
-        lines = f.readlines()[:45]
+        # Do not crop to include full height
+        lines = f.readlines()
         
     try:
         font = ImageFont.truetype("consola.ttf", 12)
