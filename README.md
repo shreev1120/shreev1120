@@ -147,6 +147,18 @@ I'm **Shree Vignesh K**, born and raised in Vellore, Tamil Nadu. My passion for 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreev1120&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+<br/>
+
+<!-- GitHub Snake Animation -->
+<div align="center">
+  <h3>🐍 My Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreev1120/shreev1120/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreev1120/shreev1120/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shreev1120/shreev1120/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ---
 
 ### 📫 Connect With Me
