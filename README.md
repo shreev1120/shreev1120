@@ -12,6 +12,10 @@
 
   <br/><br/>
 
+  <img src="giphy.gif" width="250" alt="Animated GIF" />
+
+  <br/><br/>
+
   🚀 **Software Engineering Student** | 🌐 **IoT × Software Enthusiast** | 🎯 **Aspiring Junior Developer**
 
   <br/>
