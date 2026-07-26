@@ -12,7 +12,7 @@
 
   <br/><br/>
 
-  <img src="giphy.gif" width="250" alt="Animated GIF" />
+  <img src="face_ascii.gif" width="300" alt="ASCII Animated Portrait" />
 
   <br/><br/>
 
@@ -28,8 +28,6 @@
 ---
 
 ### 👋 About Me
-
-<img src="face_ascii.gif" align="right" width="200" alt="ASCII Animated Portrait" />
 
 I'm **Shree Vignesh K**, born and raised in Vellore, Tamil Nadu. My passion for engineering stems from a unique mix of early influences — my father's hands-on grounding in hardware and my uncle's passion for software. 
 
